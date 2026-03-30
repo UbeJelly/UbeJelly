@@ -1,4 +1,4 @@
-<h1>Hi, I'm <img src="src/img/name.svg" alt="name.svg"> ! 👋(•⩊ •マ &nbsp;<img src="src/img/divider.svg" alt="divider.svg" width="500px"></h1>
+<h1>Hi, I'm <img src="src/img/name.svg" alt="name.svg" width="64px"> ! 👋(•⩊ •マ &nbsp;<img src="src/img/divider.svg" alt="divider.svg" width="500px"></h1>
 <table>
 <tr>
 <td>
