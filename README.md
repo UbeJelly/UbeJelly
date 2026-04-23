@@ -1,21 +1,21 @@
-<h1>Hi, I'm <img src="src/img/name.svg" alt="name.svg" width="64px"> ! 👋(•⩊ •マ &nbsp;<img src="src/img/divider.svg" alt="divider.svg" width="500px"></h1>
-<table>
-<tr>
-<td>
-<img src="src/img/previews.gif" alt="previews.gif" title="My Neocities homepage :3">
-</td>
-<td>
+<h1>🍠 /ˈuːbɛ/</h1>
 
-```gdscript
-func _get_data() -> Dictionary:
-    return {
-        "hobby": ["art", "coding", "games", "eating", "homelabbing (wip)"],
-        "interests": [{"obsolete tech", "old web", "emulation", "archiving"},
-        {"MMBN/Starforce", "Zero", "Medarot", "Angelic Layer", "Hyper Iria"}]
-    }
-```
+<img src="src/img/konata_mlg.png" align="right" height="225vh">
 
-</td>
-</tr>
-</table>
-<p align="right"><img src="src/img/divider.svg" alt="divider.svg" width="640px">&nbsp; <img src="src/img/icons/godot-original.svg" alt="godot-original.svg" title="Godot Engine 3.6" width="24px"> <img src="src/img/icons/javascript-original.svg" alt="javascript-original.svg" title="JavaScript" width="24px"> <img src="src/img/icons/cplusplus-original.svg" alt="cplusplus-original.svg" title="C++" width="24px"> <img src="src/img/icons/python-original.svg" alt="python-original.svg" title="Python 3.12.3" width="24px"> <img src="src/img/icons/vscodium-original.svg" alt="vscodium-original.svg" title="VSCodium" width="24px"> <img src="src/img/icons/linuxmint-original.svg" alt="linuxmint-original.svg" title="Linux Mint" width="24px"></p>
+> 'Ube' is a vibrant purple yam known for its sweet, mellow, nutty, and vanilla-like flavor. It is commonly boiled and mashed with condensed milk, used in ice cream, cakes, donuts,
+
+I love purple and I'm lost to its flavor 💜
+
+- [Koteksu](https://github.com/UbeJelly/Koteksu) `godot` `rpc` `chat` `rich text` `bbcode` — Basic RPC chat with BBCode support via Godot!
+- [PokeDot](https://github.com/UbeJelly/PokeDot) `pokemon` `api` `wrapper` `godot` — Simple [PokéApi](https://pokeapi.co/) wrapper via Godot.
+- [Invizimals: Project Catalog](https://github.com/UbeJelly/Invizimals_Project_Catalog) `invizimals` `psp` `card` `gallery` — Invizimals card catalog! Current Github Pages runs UI-Mockup branch.
+- [KoDansu](https://github.com/UbeJelly/KoDansu) `konata` `desktop` `godot` — Inspired from kona_dancer by Izya released in May 12, 2007, KoDansu is a modern recreation of the app with Godot. Light and extensible.
+- [AseScale](https://github.com/UbeJelly/AseScale) `aseprite` `export` `godot` `image` — Automates export of Aseprite files in different scales.
+Supports PNG and GIF formats, and exports from x1 to x10 scales.
+- [Konata 64](https://github.com/UbeJelly/Konata_64) `3d` `konata` `celeste64` `mod` — Play as Konata Izumi in Celeste 64!
+
+<hr>
+
+<p align="center">☕ x 💜</p>
+
+<!-- I'm not coming back to hospital anytime soon -->
