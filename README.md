@@ -6,12 +6,12 @@
 
 I love purple and I'm lost to its flavor 💜
 
-- [Koteksu](https://github.com/UbeJelly/Koteksu) `godot` `rpc` `chat` `rich text` `bbcode` — Basic RPC chat with rich text support!
-- [PokeDot](https://github.com/UbeJelly/PokeDot) `pokemon` `api wrapper` `godot` — A Pokemon API wrapper with Godot. Uses [PokéApi](https://pokeapi.co/).
-- [VOICEVOX Godot](https://github.com/UbeJelly/VOICEVOX_Godot) `voicevox` `tts` `godot` `zundamon` — A Godot API wrapper for [VOICEVOX Engine](https://github.com/VOICEVOX/voicevox_engine).
-- [Invizimals: Project Catalog](https://github.com/UbeJelly/Invizimals_Project_Catalog) `invizimals` `card` `gallery` — A card catalog for Invizimals!
-- [KoDansu](https://github.com/UbeJelly/KoDansu) `konata` `desktop` `godot` — One of Konata desktop/dance modern recreations!
-- [Konata 64](https://github.com/UbeJelly/Konata_64) `3d` `konata` `celeste64` `mod` — Play as Konata Izumi in Celeste 64!
+- [Koteksu](https://github.com/UbeJelly/Koteksu) `rpc` `chat` `rich text` `godot` — richtext chat board made with Godot
+- [PokeDot](https://github.com/UbeJelly/PokeDot) `pokemon` `wrapper` `godot` — Godot wrapper for [PokeAPI](https://github.com/PokeAPI/pokeapi) Pokemon API
+- [VOICEVOX Godot](https://github.com/UbeJelly/VOICEVOX_Godot) `voicevox` `wrapper` `tts` `godot` — Godot wrapper for [VOICEVOX](https://github.com/VOICEVOX/voicevox_engine)
+- [Invizimals: Project Catalog](https://github.com/UbeJelly/Invizimals_Project_Catalog) `invizimals` `card` `gallery` — card catalog for Invizimals
+- [KoDansu](https://github.com/UbeJelly/KoDansu) `konata` `desktop` `godot` — Konata desktop overlay
+- [Konata 64](https://github.com/UbeJelly/Konata_64) `3d` `konata` `celeste64` `mod` — Konata Izumi in Celeste 64
 
 <hr>
 
