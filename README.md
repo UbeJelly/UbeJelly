@@ -7,7 +7,7 @@
 I love purple and I'm lost to its flavor 💜
 
 - [Koteksu](https://github.com/UbeJelly/Koteksu) `rpc` `chat` `rich text` `godot` — a lite richtext chat board
-- [WAPooru](https://github.com/UbeJelly/WAPooru) - `waifu` `booru` `godot` fetches Anime Girls Holding Programming Books
+- [GALerie](https://github.com/UbeJelly/GALerie) - `anime girls` `booru` `godot` fetches Anime Girls Holding Programming Books
 - [PokeDot](https://github.com/UbeJelly/PokeDot) `pokemon` `wrapper` `godot` — Godot wrapper for [PokeAPI](https://github.com/PokeAPI/pokeapi) Pokemon API
 - [VOICEVOX Godot](https://github.com/UbeJelly/VOICEVOX_Godot) `voicevox` `wrapper` `tts` `godot` — Godot wrapper for [VOICEVOX](https://github.com/VOICEVOX/voicevox_engine)
 - [Invizimals: Project Catalog](https://github.com/UbeJelly/Invizimals_Project_Catalog) `invizimals` `card` `gallery` — card catalog for Invizimals
